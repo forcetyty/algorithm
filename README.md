@@ -3,7 +3,7 @@
 
 ------------------------------------
 ## 백준 문제풀이
-### Java(https://github.com/forcetyty/bak_algorithm_java.git)
+### [Java](https://github.com/forcetyty/bak_algorithm_java.git)
 ------------------------------------
 
 [book](https://github.com/forcetyty/java-data-algorithm)
